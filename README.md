@@ -1,14 +1,14 @@
 # Petflix
 Petflix is the ultimate streaming experience designed for you and your furry friend to chill together! It's your go-to destination for a purr-fectly delightful bonding experience. Sit back and enjoy a world of entertainment curated just for pets, featuring paw-some shows and movies.
 
-# Features
+## Features
 - Subscription and payment peocessing using Stripe integration within Firebase extensions
 - Interactive elements such as buttons, hover effects, and side scrolling.
 
-# Dynamic content: 
+## Dynamic content: 
 Curated exclusively for furry companions, the content is sourced directly from The Movie Database.
 
-# Future Enhancements:
+## Future Enhancements:
 - Introducing support for multiple users to enjoy a curated list of movies tailored for households with more than one pet.
 - Responsive design to ensure optimal user experience across various devices
 - Expanding the range of query parameters to implement advanced filters for keyword searches
@@ -54,7 +54,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
