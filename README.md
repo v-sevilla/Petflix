@@ -1,5 +1,19 @@
-<<<<<<< HEAD
-# Getting Started with Create React App and Redux
+# Petflix
+Petflix is the ultimate streaming experience designed for you and your furry friend to chill together! It's your go-to destination for a purr-fectly delightful bonding experience. Sit back and enjoy a world of entertainment curated just for pets, featuring paw-some shows and movies.
+
+# Features
+- Subscription and payment peocessing using Stripe integration within Firebase extensions
+- Interactive elements such as buttons, hover effects, and side scrolling.
+
+# Dynamic content: 
+Curated exclusively for furry companions, the content is sourced directly from The Movie Database.
+
+# Future Enhancements:
+- Introducing support for multiple users to enjoy a curated list of movies tailored for households with more than one pet.
+- Responsive design to ensure optimal user experience across various devices
+- Expanding the range of query parameters to implement advanced filters for keyword searches
+
+## Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
@@ -46,21 +60,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 =======
-# petflix
-
-Petflix is the ultimate streaming experience designed for you and your furry friend to chill together! It's your go-to destination for a purr-fectly delightful bonding experience. Sit back and enjoy a world of entertainment curated just for pets, featuring paw-some shows and movies.
-
-# Features
-
-# Responsive design: 
-The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
-
-# Interactive components: 
-The page includes interactive elements such as buttons, dropdown menus, and hover effects, and side scrolling.
-
-# Dynamic content: 
-Curated exclusively for furry companions, the content is sourced directly from The Movie Database.
-
-# Future Enhancements:
-Introducing support for Multiple Users - Enjoy a curated list of movies tailored for households with more than one pet.
->>>>>>> origin/main
